@@ -1,8 +1,8 @@
 # Telegram-Bot
 trading signals, forwarding and analysis / señales de trading, reenvío y análisis
-🤖 Bot de Telegram para alertas
+Bot de Telegram para alertas
 
-# Bot de Telegram para Alertas 📩
+# 🤖  Bot de Telegram para Alertas 📩
 
 Bot diseñado para recibir, analizar y reenviar señales de trading o tareas automatizadas desde grupos o canales de Telegram.
 
